@@ -5,7 +5,7 @@
 
 This code is helpign get the lowest prize that other player selling in the JITA in the EVEONLINE
 you could ez paste these codes inside the VB module of your Excel and return to Excel type in =get_jita_buy(id)  *id is the stuff you wanna buy 
-So you could get the prize ez and efficient :D
 
 
-FLY SAFE
+
+FLY SAFE by Louie_mao
